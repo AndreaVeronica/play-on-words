@@ -4,7 +4,7 @@
 
 This app is a word cloud generator. This app allows users to create a profile, generate word and save word clouds and share them with other users.
 
-[Play-On-Words] (https://afternoon-bastion-47484.herokuapp.com/)
+[Play-On-Words] (http://playonwords.herokuapp.com/)
 
 ### Trello:
 
@@ -37,7 +37,10 @@ This app is a word cloud generator. This app allows users to create a profile, g
  - Switch word cloud generator algorithm.
  - Implement Twitter and Facebook API.
 
-
+### Project Members
+- Andrea Airall  andreaairall@gmail.com
+- Tan Lui  effishing@gmail.com
+- Jordan Rust  jordan.rust92@gmail.com
 
 
 ### User Story:
