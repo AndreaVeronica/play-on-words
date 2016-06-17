@@ -4,7 +4,7 @@
 
 This app is a word cloud generator. This app allows users to create a profile, generate word and save word clouds and share them with other users.
 
-[Play-On-Words] (http://playonwords.herokuapp.com/)
+[Play-On-Words] (https://afternoon-bastion-47484.herokuapp.com/)
 
 ### Trello:
 
